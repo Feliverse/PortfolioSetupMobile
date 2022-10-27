@@ -18,14 +18,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Felipe Haybar**
 
-- GitHub: [@githubhandle](https://github.com/)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Feliverse](https://github.com/Feliverse)
+- Twitter: [@FelipeHaybar](https://twitter.com/FelipeHaybar)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/Feliverse)
-- Twitter: [@twitterhandle](https://twitter.com/FelipeHaybar)
 
 ## 🤝 Contributing
 
