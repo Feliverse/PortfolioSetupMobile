@@ -1,0 +1,62 @@
+body {
+  background: #e9e8ed;
+  display: flex;
+  flex-flow: row wrap;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 320px ;
+}
+header {
+  width: 111px;
+  height: 74px;
+}
+nav {
+  height: 74px;
+  text-align: right;
+  font-size: 60px;
+  display: flex;
+  justify-content:end;
+
+    
+}
+main {
+  width: 100%;
+  background: #e9e8ed ;
+  padding: 20px;
+  display: flex;
+  flex-flow: column wrap;
+  margin: 0 auto;
+  justify-content: center ;
+  width: 80%;
+  align-content: center;
+  height: 300px;
+}
+
+.miNombre {
+  background: none;
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  font-size: 50px;
+}
+.saludo {
+  background: none;
+  font-size: 14px;
+}
+footer {
+  color: white;
+  text-align: center;
+  align-items: center;
+
+  width: 288px;
+  height: 50px;
+  left: 16px;
+  top: 390px;
+  margin: 0 auto;
+  background: #1A2236; 
+
+  
+}
+.espacio {
+    color: #e9e8ed;
+}
+.art {
+    margin-top: 18px;
+}
