@@ -3,7 +3,7 @@ body {
   display: flex;
   flex-flow: row wrap;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  width: 320px ;
+  width: 320px;
 }
 header {
   width: 111px;
@@ -14,13 +14,11 @@ nav {
   text-align: right;
   font-size: 60px;
   display: flex;
-  justify-content:end;
-
-    
+  justify-content:end;   
 }
 main {
   width: 100%;
-  background: #e9e8ed ;
+  background: #e9e8ed;
   padding: 20px;
   display: flex;
   flex-flow: column wrap;
