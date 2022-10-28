@@ -6,26 +6,27 @@ First Portfolio modeling to mobile
 
 ## Built With
 
-- HTML & CSS
+- Technology: HTML & CSS
+- Tools: GIT, GITHUB,  VISUAL STUDIO
 
 ## Getting Started
 
 Use Html 5 Browser
 
 To get a local copy up and running follow these simple example steps.
+## Prerequisites
+you have to those tools in your local machine.
+
+ NPM
+ GIT & GITHUB
+ Any Code Editor (VS Code, Brackets, etc)
 
 ## Author
 
 👤 **Felipe Haybar**
 
-- GitHub: [@githubhandle](https://github.com/)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/Feliverse)
-- Twitter: [@twitterhandle](https://twitter.com/FelipeHaybar)
+- GitHub: [@Feliverse](https://github.com/Feliverse)
+- Twitter: [@FelipeHaybar](https://twitter.com/FelipeHaybar)
 
 ## 🤝 Contributing
 
