@@ -44,8 +44,8 @@ main {
   font-size: 14px;
 }
 
-footer {
-  color: white;
+.collabBoton {
+  color: #56c48f;
   text-align: center;
   align-items: center;
   width: 288px;
@@ -53,7 +53,7 @@ footer {
   left: 16px;
   top: 390px;
   margin: 0 auto;
-  background: #1a2236;
+  background: #07080e;
 }
 
 .boton {
@@ -62,4 +62,49 @@ footer {
 
 .art {
   margin-top: 18px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  padding-left: 0px;
+  margin-bottom: 0px;
+}
+
+li {
+  font-size: 12px;
+  background-color: #ffca7f;
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+  padding: 6px;
+}
+
+h3 {
+  border: #edeff5 solid 1px;
+  padding: 10px;
+  color: #e9e8ed;
+  width: 60%;
+  font-style: normal;
+  margin-bottom: 0;
+  }
+
+.pData {
+  background-color: #0b2d2e;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  padding: 20px;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h2 {
+  color: #edeff5;
+  padding: 0px;
+  margin: 0;
+  font-style: none;
+}
+
+h4 {
+  font-size: 40px;
 }
