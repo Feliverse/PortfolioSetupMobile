@@ -2,7 +2,7 @@ body {
   background: #e9e8ed;
   display: flex;
   flex-flow: row wrap;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
   width: 320px;
 }
 
@@ -28,18 +28,19 @@ main {
   margin: 0 auto;
   justify-content: center;
   align-content: center;
-  height: 300px;
+  height: 320px;
 }
 
 .miNombre {
   background: none;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 50px;
+  font-size: 30px;
 }
 
 .saludo {
   background: none;
   font-size: 14px;
+  width: 320px;
 }
 
 footer {
