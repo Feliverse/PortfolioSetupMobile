@@ -1,16 +1,19 @@
 body {
-  background: #e9e8ed;
   display: flex;
   flex-flow: row wrap;
   font-family: Georgia, 'Times New Roman', Times, serif;
   width: 320px;
+  background-image: url(images/Imagen2.png);
+  background-repeat: no-repeat;
+  background-size: 120px 80px;
 }
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   width: 320px;
   height: 74px;
+  
 }
 
 nav {
@@ -22,7 +25,6 @@ nav {
 
 main {
   width: 100%;
-  background: #e9e8ed;
   padding: 20px;
   display: flex;
   flex-flow: column wrap;
