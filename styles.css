@@ -23,11 +23,9 @@ nav {
   justify-content: end;
 }
 
-main {
+.cuerpo {
   width: 100%;
   padding: 20px;
-  display: flex;
-  flex-flow: column wrap;
   margin: 0 auto;
   justify-content: center;
   align-content: center;
