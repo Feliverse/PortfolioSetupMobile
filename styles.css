@@ -2,17 +2,19 @@ body {
   background: #e9e8ed;
   display: flex;
   flex-flow: row wrap;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  font-family: Georgia, 'Times New Roman', Times, serif;
   width: 320px;
 }
 
 header {
-  width: 111px;
+  display: flex;
+  justify-content: space-between;
+  width: 320px;
   height: 74px;
 }
 
 nav {
-  height: 74px;
+  display: flex;
   text-align: right;
   font-size: 60px;
   display: flex;
@@ -28,19 +30,18 @@ main {
   margin: 0 auto;
   justify-content: center;
   align-content: center;
-  height: 320px;
+  height: 300px;
 }
 
 .miNombre {
   background: none;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 .saludo {
   background: none;
   font-size: 14px;
-  width: 320px;
 }
 
 footer {
@@ -55,10 +56,10 @@ footer {
   background: #1a2236;
 }
 
-.espacio {
-  color: #e9e8ed;
+.boton {
+  font-size: 50px;
 }
 
 .art {
-  margin-top: 19px;
+  margin-top: 18px;
 }
