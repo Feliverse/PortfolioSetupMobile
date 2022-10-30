@@ -53,6 +53,7 @@ main {
   top: 390px;
   margin: 0 auto;
   background: #07080e;
+  border: #eff5f0 1px;
 }
 
 .boton {
@@ -72,7 +73,7 @@ ul {
 
 li {
   font-size: 12px;
-  background-color: #ffca7f;
+  background-color: #73e6f5;
   float: left;
   text-align: center;
   margin-right: 10px;
@@ -89,7 +90,7 @@ h3 {
 }
 
 .pData {
-  background-color: #0f4f52;
+  background-color: #000000;
   display: flex;
   flex-direction: column;
   justify-content: left;
@@ -122,4 +123,48 @@ h4 {
 
 .rrss {
   background-color: #0f4f52;
+}
+
+a {
+  text-decoration: none;
+  color:#1e8e94 ;
+  align-items: center;
+}
+
+.bigBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.box1 {
+  background-color: #1c52ba;
+  width: 289px;
+  height: 289px;
+  margin: 10px;
+}
+
+.box2 {
+  background-color: #e2505c;
+  width: 289px;
+  height: 289px;
+  margin: 10px;
+}
+
+.box3 {
+  background-color: #febf52;
+  width: 289px;
+  height: 289px;
+  margin: 10px;
+}
+.bo {
+  display: flex;
+  flex-direction: column;
+  color: #eff5f0;
+  text-align: left;
+}
+
+h5 {
+  color:#eff5f0
 }
