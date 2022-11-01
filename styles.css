@@ -90,7 +90,7 @@ h3 {
 }
 
 .pData {
-  background-color: #000000;
+  background-color: #000;
   display: flex;
   flex-direction: column;
   justify-content: left;
@@ -127,7 +127,7 @@ h4 {
 
 a {
   text-decoration: none;
-  color:#1e8e94 ;
+  color: #1e8e94;
   align-items: center;
 }
 
@@ -158,6 +158,7 @@ a {
   height: 289px;
   margin: 10px;
 }
+
 .bo {
   display: flex;
   flex-direction: column;
@@ -166,5 +167,5 @@ a {
 }
 
 h5 {
-  color:#eff5f0
+  color:#eff5f0;
 }
